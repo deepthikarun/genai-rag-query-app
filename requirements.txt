@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+pypdf
+faiss-cpu
+sentence-transformers
+openai
+python-dotenv
+cryptography>=3.1
